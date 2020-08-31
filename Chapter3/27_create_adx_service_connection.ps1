@@ -1,4 +1,4 @@
-$adxendpoing = az devops service-endpoint create --service-endpoint-configuration config.json
+$adxendpoint = az devops service-endpoint create --service-endpoint-configuration config.json
 
 rm config.json
 
